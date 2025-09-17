@@ -661,7 +661,7 @@ svg path {
 }
 .author-country{
   font-size: .625rem;
-  color: rgba(8, 28, 43, .48);
+  color: #697178;
 }
 .author-name , .author-country{
   font-family: var(--ff-sans);
