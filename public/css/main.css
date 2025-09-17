@@ -490,12 +490,12 @@ figcaption {
 .slider-container .prev-article {
   display: block;
   transform: translate(-115%, 2.5rem);
-  opacity: .5;
+  opacity: .8;
 }
 .slider-container .next-article {
   display: block;
   transform: translate(115%,2.5rem);
-  opacity: .5;
+  opacity: .8;
 }
 .about-section {
   background: black;
