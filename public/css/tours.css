@@ -168,7 +168,7 @@ form div {
         width: 49%;
         height: 250px;
       }  
-      .contact-item p{
+      .contact-item a{
         font-size: 1rem;
       }  
 }
