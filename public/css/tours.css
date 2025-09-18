@@ -168,6 +168,9 @@ form div {
         width: 49%;
         height: 250px;
       }  
+      .contact-item p{
+        font-size: 1rem;
+      }  
 }
 @media screen and (min-width: 750px){
     .tours-page .faqs-container {
