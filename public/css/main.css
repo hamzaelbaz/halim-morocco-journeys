@@ -55,6 +55,7 @@ html {
   -ms-text-size-adjust: 100%; 
   text-size-adjust: 100%;       
   font-family: sans-serif;
+  scroll-behavior: smooth;
 }
 :root {
     --big-heading:4rem;
