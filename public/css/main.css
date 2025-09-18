@@ -199,6 +199,9 @@ nav .booking-btn-container, nav .menu-btn, nav .logo {
   transform: translateX(-50%);
   top: 8px;
 }
+.logo a:hover {
+  background: none;
+}
 .book-btn-two {
   display: none;
 }
