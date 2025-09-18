@@ -369,7 +369,7 @@ Le nom : ${name} <br> *Email : ${emails} <br> telephone : ${tele}  <br> Message 
                 <tr>
                   <td class="content-block">
                     <span class="apple-link">Email de réservation</span>
-                    <br> <a href="https://oasishopeassociation.com/">oasishopeassociation.com</a>.
+                    <br> <a href="https://halim-morocco-journeys.com/">halim-morocco-journeys.com/</a>.
                   </td>
                 </tr>
               </table>
