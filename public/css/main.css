@@ -837,7 +837,7 @@ details[open] summary .icon {
 	margin: 2.5rem auto;
 	display: grid;
 	place-items: center;
-	background: url(/images/main-img.webp);
+	background: url(/images/main-img.jpg);
 	background-blend-mode: darken;
 	background-color: rgb(0 0 0 / .5);
 	background-size: cover;
