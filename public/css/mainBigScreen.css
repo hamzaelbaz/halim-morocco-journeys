@@ -5,7 +5,19 @@
 html {
 	font-size: 1.3rem
 }
-
+.header-container.main {
+	border-radius: 1.2rem 1.2rem 0 0;
+	background-image: url(/images/main-img_950.jpg);
+	background-position: right;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: rgb(0 0 0 / .5);
+	background-blend-mode: darken;
+	min-height: 100svh;
+	height: auto;
+	position: relative;
+	padding-bottom: 8px
+}
 .slide-img-one {
 	background: url(/images/casablanca.webp);
 	background-size: cover
@@ -311,7 +323,19 @@ address.tours-section-content.contact-item {
 	:root {
 		--main-width: 85%
 	}
-
+    .header-container.main {
+        border-radius: 1.2rem 1.2rem 0 0;
+        background-image: url(/images/main-img_1080.jpg);
+        background-position: right;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: rgb(0 0 0 / .5);
+        background-blend-mode: darken;
+        min-height: 100svh;
+        height: auto;
+        position: relative;
+        padding-bottom: 8px
+    }
 	.slide-img {
 		height: 510px
 	}
@@ -412,6 +436,19 @@ address.tours-section-content.contact-item {
 		width: 47%;
 		animation: very-large-screen 20s linear infinite
 	}
+    .header-container.main {
+        border-radius: 1.2rem 1.2rem 0 0;
+        background-image: url(/images/main-img_1250.jpg);
+        background-position: right;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: rgb(0 0 0 / .5);
+        background-blend-mode: darken;
+        min-height: 100svh;
+        height: auto;
+        position: relative;
+        padding-bottom: 8px
+    }
 
 	.about-testimony-section {
 		background: url(/images/see-about_1250.webp);
@@ -508,7 +545,19 @@ address.tours-section-content.contact-item {
 	html {
 		font-size: 1.4rem
 	}
-
+    .header-container.main {
+        border-radius: 1.2rem 1.2rem 0 0;
+        background-image: url(/images/main-img.jpg);
+        background-position: right;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: rgb(0 0 0 / .5);
+        background-blend-mode: darken;
+        min-height: 100svh;
+        height: auto;
+        position: relative;
+        padding-bottom: 8px
+    }
 	.about-testimony-section {
 		background: url(/images/see-about.webp);
 		background-size: cover;
